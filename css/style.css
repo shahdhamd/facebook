@@ -1,0 +1,39 @@
+.login{
+    background-color: rgb(240, 242, 245);
+}
+.login-form h1{
+    color: #1F62F7;
+    font-weight: 700 ;
+}
+
+.login-form .create{
+    background-color: #42b72a;
+    color: #fff;
+    width: 70%;
+    margin: auto;
+}
+.line
+{
+    margin-top: 8px;
+   border-bottom: 1px solid #dadde1;
+}
+.par{
+    margin-top: 10px;
+    font-size: .8rem;
+    font-weight: 600;
+}
+.login .login-contant {
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
+
+@media screen and (max-width: 994px) {
+    .login .login-contant {
+        display:inline-flex;
+    }
+    .login-text{
+        text-align: center;
+    }
+
+}

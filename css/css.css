@@ -1,0 +1,555 @@
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #dddddd;
+    height: 4000px;
+}
+.container-fluid .form-control{
+    border-radius: 2.375rem;
+    width: 252px;
+    height: 40px;
+}
+.navbar-expand-lg .navbar-nav .nav-link .i-nav{
+    padding: 12px;
+    border-radius: 50%;
+    background-color: #ced4da;
+    line-height: 17.42px;
+}
+.line{
+    border-bottom: 1.5px solid rgb(206, 208, 212);
+    margin-left: 10px;
+}
+
+.angle-icon {
+    background-color: #d0d0d0;
+    padding: 9.5px;
+    border-radius: 50%;
+}
+
+.img-store{
+    width: 100%;
+    position: absolute;
+
+}
+
+.fs-20{
+
+    font-size: 20px;
+}
+.header ul{
+    padding: .6rem;
+}
+
+ .shortcut{
+    color: #65676B;
+    font-weight: 600;
+    font-size: 1.0625rem;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.header .post_content{
+    margin-top: 5rem;
+    /* padding: 1rem; */
+    position: relative;
+}
+
+.header p{
+    font-weight: 500;
+    font-size: 16px;
+}
+.header .para{
+    margin-top: 35px;
+    font-size: .8125rem;
+    line-height: 1.2308;
+    font-size: 400;
+    color: rgb(101, 103, 107);
+}
+.shard{
+    border-radius: 50%;
+    border: 4px solid  rgb(24, 118, 242);
+    position: absolute;
+    margin-top: 8px;
+    /* margin-top:-287px; */
+}
+
+.card-wh .icon{
+    border-radius: 50%;
+    background-color: rgb(24, 118, 242);
+    color: #fff;
+    padding: 8px;
+    position: absolute;
+    left:47%;
+    top: 76%;
+    border: 3px solid white;
+
+}
+
+.header-post h5{
+    font-size: 13px;
+    font-weight: 600;
+}
+.chevron-icon{
+    background-color: white;
+    /* background-color: black; */
+    padding: 18px;
+    border-radius: 50%;
+    color: #b8b2b2;
+}
+.div-icon{
+    position: absolute;
+    left:56%;
+    top: 36%;
+}
+.card-mind .form-control {
+    width: 430px;
+}
+
+.icon-video{
+    color: #F3425F;
+}
+.header-content p{
+    color: #65676B;
+    font-size: .9375rem;
+    font-weight: 600;
+}
+.icon-portrait{
+    color: #42b72a;
+}
+.icon-face{
+    color: gold;
+}
+.icon-ellipasis{
+    margin-left: 218px;
+    margin-right: 0;
+    /* width: 36px; */
+}
+.position_data{
+    position:absolute;
+    left: 55px;
+    top: 31px;
+}
+.position_post{
+    position:absolute;
+    left: 55px;
+    top: 51px;
+}
+.time{
+    color: #65676B;
+    font-size: 13px;
+    font-weight: 400;
+}
+.image{
+    position:absolute;
+    left: 83px;
+    top: 31px;
+    color: #65676B;
+    font-size: 13px;
+}
+.header .share{
+    font-weight: 400;
+    font-size: 15px;
+}
+.post span{
+    color: rgb(101, 103, 107);
+}
+.react{
+    color: rgb(101, 103, 107);
+    font-size: 16px;
+}
+.post .first .card{
+    border:none;
+    padding: 5px;
+    background-color: #6c6969;
+
+}
+
+
+.contact-sponsored .fs-30{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 19.99px;
+}
+.icon-share{
+    font-size:xx-small;
+    color: rgb(12, 106, 12);
+}
+.icon-circle1{
+    position: absolute;
+    left: 33px;
+    top: 75px;
+}
+.icon-circle2{
+    position: absolute;
+    left: 33px;
+    top: 115px;
+}
+.icon-circle3{
+    position: absolute;
+    left: 33px;
+    top: 155px;
+}
+.icon-circle4{
+    position: absolute;
+    left: 33px;
+    top: 196px;
+}
+.icon-circle5{
+    position: absolute;
+    left: 33px;
+    top: 236px;
+}
+.icon-circle6{
+    position: absolute;
+    left: 33px;
+    top: 276px;
+}
+.icon-circle7{
+    position: absolute;
+    left: 33px;
+    top: 316px;
+}
+.icon-circle8{
+    position: absolute;
+    left: 33px;
+    top: 356px;
+}
+
+/* end Home-page */
+/* start profile css */
+
+.profile-content .Edit{
+    position: absolute;
+    right: 4%;
+    bottom: 33%;
+}
+
+.profile-content{
+    position: relative;
+}
+.profile-content .me-img{
+    height: 168px;
+    width: 168px;
+    position: absolute;
+   
+    left: 5%;
+    bottom: 27%;
+} 
+.me-img .icon-camera{
+    position: absolute;
+    left: 76%;
+    bottom: 14%;
+}
+.w-5{
+    width: 22%;
+}
+
+.icon img{
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+}
+.btn-add{
+    background-color: #1B74E4;
+    color: white;
+}
+
+.btn-share{
+    background-color: #dddddd;
+    font-size: 15px;
+    font-weight: 600;
+    color: #000;
+    padding: 10px;
+    text-align: center;
+}
+.graduat{
+    color: #949494;
+}
+.p-name{
+    font-size: 13px;
+    font-weight: 500;
+    color: #000;
+}
+.intro-contant .para{
+    margin-top: 35px;
+    font-size: .8125rem;
+    line-height: 1.2308;
+    font-size: 400;
+    color: rgb(101, 103, 107);
+}
+.icon-flag{
+    color: rgb(75, 176, 176);
+}
+.profile-content .profitle-text{
+  position:relative;
+  display: flex;
+  justify-content:end ;
+}
+.profile-content .content{
+   margin-top: 1rem;
+   margin-left: 2rem;
+}
+
+
+.inf-profile .intr-content{
+    margin: 0;
+}
+.profitle-text .pro-content{
+    margin-top:5rem ;
+    display: flex;
+    justify-content: end;
+}
+ @media ( min-width: 992px) and (max-width: 1200px) {
+    .profile-content .profitle-text{
+        margin-left: 3rem;
+    }
+    .profile-content .content{
+        margin-top: 0;
+        margin-left: 12rem;
+     }
+
+     .contact-sponsored {
+        display: none;
+    }
+    .header-post{
+        margin: auto;
+        width: 54%;
+    }
+
+}
+
+@media ( min-width: 768px) and (max-width: 992px) {
+    .profile-content .profitle-text{
+        margin-left: 3rem;
+        display: inline-block;
+    }
+    .profile-content .content{
+        margin-top: 4rem;
+        margin-left: 12rem;
+        text-align: center;
+     }
+     .me-img{
+        margin: auto;
+     }
+     .profile-content .Edit{
+        display: none;
+     }
+      .profile-content .me-img{
+        position: absolute;
+        left: 48%;
+        bottom: 83%;
+     } 
+
+     .profitle-text .pro-content{
+        margin-top: 0;
+        justify-content: end;
+     } 
+     .list .icon{
+        display: none;
+     }
+
+     
+    .contact-sponsored {
+        display: none;
+    }
+    .inf-profile .div-profile{
+        margin: auto;
+    }
+    .para{
+        display: none;
+    }
+    .header-post{
+        margin: auto;
+        width: 90%;
+    }
+
+    /* .inf-profile .intr-content{
+        margin-left: 0;
+    } */
+    /* .row .post-text .card{
+        margin: 2rem;
+    } */
+
+    .row .post-text .card{
+        margin: none;
+    }
+
+    .inf-profile .intr-content{
+        margin: 1rem;
+    }
+}
+
+@media (max-width: 767px) and (min-width: 545px){
+    .shortcut{
+        color: #65676B;
+        font-weight: 600;
+        font-size: 12px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+     .profile-content .profitle-text{
+        margin-left: 3rem;
+        display: inline-block;
+    }
+    .profile-content .content{
+        margin-top: 4rem;
+        margin-left: 4rem;
+        text-align: center;
+     }
+     .me-img{
+        margin: auto;
+     }
+     .profile-content .Edit{
+        display: none;
+     }
+     .profile-content .me-img{
+        position: absolute;
+        left: 27%;
+        bottom: 77%;
+     }
+
+     .profitle-text .pro-content{
+        margin-top: 0;
+        justify-content: end;
+     }
+     .list .icon{
+        display: none;
+     }
+     .contact-sponsored {
+        display: none;
+    }
+
+    .header-post {
+        margin: auto;
+        width: 90%;
+    }
+    .header-info{
+        display: none;
+    }
+}
+
+@media  (max-width: 544px) and   (min-width: 462px) {
+    .profile-content .profitle-text{
+        margin-left: 3rem;
+        display: inline-block;
+    }
+    .profile-content .content{
+        margin-top: 4rem;
+        margin-left: 4rem;
+        text-align: center;
+     }
+     .me-img{
+        margin: auto;
+     }
+     .profile-content .Edit{
+        display: none;
+     }
+     .profile-content .me-img{
+        position: absolute;
+        left: 27%;
+        bottom: 77%;
+     }
+     .shortcut{
+        color: #65676B;
+        font-weight: 500;
+        font-size: 9px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+     .profitle-text .pro-content{
+        margin-top: 0;
+        justify-content: end;
+     }
+     .list .icon{
+        display: none;
+     }
+     .contact-sponsored {
+        display: none;
+    }
+
+    .header-post {
+        margin: auto;
+        width: 90%;
+    }
+    .header-info{
+        display: none;
+    }
+}
+
+@media (max-width: 461px) {
+    .profile-content .profitle-text{
+        margin-left: none;
+        display: inline-block;
+    }
+    .profile-content .content{
+        margin-top: 4rem;
+        margin-left: 4rem;
+        text-align: center;
+     }
+     .me-img{
+        margin: auto;
+     }
+     .profile-content .Edit{
+        display: none;
+     }
+     .profile-content .me-img{
+        position: absolute;
+        left: 27%;
+        bottom: 77%;
+     }
+
+     .shortcut{
+        color: #65676B;
+        font-weight: 320;
+        font-size: 10px;
+        margin-left: .5px;
+        margin-top: 5px;
+    }
+
+     .profitle-text .pro-content{
+        margin-top: 0;
+        justify-content: end;
+     }
+     .list .icon{
+        display: none;
+     }
+     .contact-sponsored {
+        display: none;
+    }
+
+    .header-post {
+        margin: auto;
+        width: 90%;
+    }
+    .header-info{
+        display: none;
+    }
+}
+.card-wh{
+    width: 110px;
+    height: 200px; 
+}
+
+.icon-card{
+    display: flex;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.text-story{
+    align-items: center;
+    color: #fff;
+    position: absolute;
+    left: 0;
+    top: 157px;
+}
+
+/* .inf-profile .intr-content  */
+.row .post-text .card{
+    margin: 1rem;
+}
